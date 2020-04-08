@@ -1,0 +1,11 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  stock.cpp
+c:\users\michał\source\repos\szkoła programowania\chapter12\ex12.3\ex12.3\stock.cpp(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\michał\source\repos\szkoła programowania\chapter12\ex12.3\ex12.3\stock.cpp(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\michał\source\repos\szkoła programowania\chapter12\ex12.3\ex12.3\stock.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\michał\source\repos\szkoła programowania\chapter12\ex12.3\ex12.3\stock.cpp(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  Ex12.3.vcxproj -> C:\Users\Michał\source\repos\Szkoła programowania\Chapter12\Ex12.3\Debug\Ex12.3.exe
