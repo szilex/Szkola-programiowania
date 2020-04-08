@@ -1,0 +1,3 @@
+﻿  mytime.cpp
+c:\users\michał\source\repos\szkoła programowania\chapter11\ex11.4\ex11.4\mytime.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  Ex11.4.vcxproj -> C:\Users\Michał\source\repos\Szkoła programowania\Chapter11\Ex11.4\Debug\Ex11.4.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\michał\source\repos\szkoła programowania\chapter11\ex11.1\ex11.1\source.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\michał\source\repos\szkoła programowania\chapter11\ex11.1\ex11.1\source.cpp(37): warning C4018: '>': signed/unsigned mismatch
+c:\users\michał\source\repos\szkoła programowania\chapter11\ex11.1\ex11.1\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Ex11.3.vcxproj -> C:\Users\Michał\source\repos\Szkoła programowania\Chapter11\Ex11.3\Debug\Ex11.3.exe
