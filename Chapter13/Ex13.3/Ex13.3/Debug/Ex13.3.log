@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.cpp
+c:\users\michał\source\repos\szkoła programowania\chapter13\ex13.3\ex13.3\dma.h(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\michał\source\repos\szkoła programowania\chapter13\ex13.3\ex13.3\dma.h(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  Ex13.3.vcxproj -> C:\Users\Michał\source\repos\Szkoła programowania\Chapter13\Ex13.3\Debug\Ex13.3.exe
